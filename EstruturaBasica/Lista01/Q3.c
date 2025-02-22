@@ -28,7 +28,7 @@ int main(){
   int veti[]={10,7,2,6,3};
   pti = veti;
 
-  printf("O elemento: %d", pti[4]);
+  printf("O elemento: %d", pti[1]);
 
 
   return 0;
